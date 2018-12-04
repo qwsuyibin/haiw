@@ -25,4 +25,9 @@ android {
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support:appcompat-v7:27.1.1'
+    implementation 'com.facebook.android:facebook-android-sdk:4.34.0'
+    implementation 'com.facebook.android:facebook-share:4.34.0'
+    implementation 'com.google.android.gms:play-services-auth:11.6.0'
+    implementation 'com.google.android.gms:play-services-games:11.6.0'
+    implementation 'com.google.android.gms:play-services-gcm:9.4.0'
 }
