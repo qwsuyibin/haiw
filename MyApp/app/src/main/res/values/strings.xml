@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="action_settings">Settings</string>
+    <string name="server_client_id">459188993895-qo2bhp7d9cjnlbcpmrgaq4hnol2277mv.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1917221221931369</string>
+    <string name="fb_login_protocol_scheme">fb1917221221931369</string>
+</resources>
